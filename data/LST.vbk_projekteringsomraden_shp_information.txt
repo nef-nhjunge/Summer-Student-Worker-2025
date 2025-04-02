@@ -1,0 +1,18 @@
+ATTRIBUT    	ALIAS     			BESKRIVNING
+-----------------------------------------------------------------------------------------------
+OMRID		Områdes-ID			ID-nummer i Vindbruksollen för projekteringsområdet	
+PROJNAMN	Projektnamn			Namn på projekteringsområdet
+ANTALVERK	Aktuella verk			Antal vindkraftverk exklusive status "Ej aktuell/återkallat"
+AntalejXY	Antal ej koordinatsatta verk	Visar hur många vindkraftverk utan koordinater som tillhör projekteringsområdet
+CALPROD		Beräknad årsproduktion (GWh)	Summan av verkens uppgivna beräknade årsproduktion
+PBYGGSTART	Planerad byggstart		Datumangivelse för planerad byggstart för projektet		
+PDRIFT		Planerat drifttagande		Datumangivelse för planerat idrifttagande för projektet		
+Andringsan	Ändringsansökan pågår		Visar om ändringsansökan pågår
+UnderByggn	Under byggnation		Visar om projekteringsområdet är under byggnation
+ORGNAMN		Organisationsnamn		Namnet på Verksamhetsutövaren för projekteringsområdet
+ORGNR		Organisationsnummer		Verksamhetsutövarens organisationsnummer
+KOMNAMN		Kommun				Kommun dit projekteringsområdet tillhör
+LANSNAMN	Län				Län dit projekteringsområdet tillhör
+EL_NAMN		Elområde			Elområde dit projekteringsområdet tillhör
+ArendeStat	Senast uppdaterat		Datum då projektet senast sparats i Vindbrukskollen (Om datum saknas har området inte sparats efter nov 2018)
+EJAKTUELL	Ej aktuell			Samtliga verk inom projekteringsområdet har status ej aktuellt / återkallat / avslag med laga kraft
