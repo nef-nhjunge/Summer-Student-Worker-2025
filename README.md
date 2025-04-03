@@ -16,7 +16,7 @@ In the data folder you will find three files
 ## Completing the assignment
 
 You are to complete all tasks in the assignment in the Jupyter notebook.
-You will present your notebook with in the next interview to discuss the tasks and your solution.
+You will present your notebook in the next interview to discuss the tasks and your solution.
 
 We recommend you use Python 3.12 but other versions should work. We expect that you know how to configure
 a working Python environment with Anaconda or Venv.
