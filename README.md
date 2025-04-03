@@ -1,4 +1,4 @@
-# Norsk e-Fuel student summer job assignment - April 2025
+# Norsk e-Fuel summer student job assignment - April 2025
 
 In this repository you will find:
 
